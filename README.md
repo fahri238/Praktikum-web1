@@ -1,0 +1,1 @@
+This is a project during practicum, in 4 meetings in one month, we learn about the basics of HTML, CSS, Javascript, and Boostrap, which is organized by the campus, Muhammad Arsyad Al-Banjari University, Banjarmasin.
